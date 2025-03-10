@@ -57,7 +57,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h4 className="vertical-timeline-element-subtitle">Addis Ababa, Ethiopia</h4>
             <p>
               Automation, Data Governance, Statistical Analysis
             </p>
