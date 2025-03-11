@@ -34,8 +34,13 @@ function Contact() {
          message: message
        };
 
+       const service_id ='service_jrmoldi';
+       const template_id ='template_5bb16mj';
+       const api_key = '6rSe8vlqIFjU2-NyK';
+
+
        console.log(templateParams);
-       emailjs.send('service_id', 'template_id', templateParams, 'api_key').then(
+       emailjs.send(service_id, template_id, templateParams, api_key).then(
          (response) => {
            console.log('SUCCESS!', response.status, response.text);
          },
