@@ -45,7 +45,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">International Admission Advisore</h3>
+            <h3 className="vertical-timeline-element-title">International Admission Advisor</h3>
             <h4 className="vertical-timeline-element-subtitle">Catholic University of America/Washington, DC</h4>
             <p>
               Salseforce Enrolment Managment
