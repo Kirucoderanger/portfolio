@@ -14,7 +14,7 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noopener noreferrer" title="GitHub Profile"><GitHubIcon/></a>
+            <a href="https://kirucoderanger.github.io/portfolio/" target="_blank" rel="noopener noreferrer" title="GitHub Profile"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/kirubel-mekonen-251296b5" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile"><LinkedInIcon/></a>
           </div>
           <h1>Kirubel Mekonen</h1>

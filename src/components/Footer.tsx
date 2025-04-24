@@ -7,10 +7,10 @@ function Footer() {
   return (
     <footer>
       <div>
-        <a href="https://github.com/Kirucoderanger/wdd131" target="_blank" rel="noreferrer noopener" title="GitHub Profile"><GitHubIcon/></a>
+        <a href="https://github.com/Kirucoderanger/" target="_blank" rel="noreferrer noopener" title="GitHub Profile"><GitHubIcon/></a>
         <a href="www.linkedin.com/in/kirubel-mekonen-251296b5" target="_blank" rel="noreferrer" title="LinkedIn Profile"><LinkedInIcon/></a>
       </div>
-      <p>A portfolio designed & built by <a href="https://kirucoderanger.github.io/wdd131/" target="_blank" rel="noreferrer noopener">Kirubel Mekonen</a> with </p>
+      <p>A portfolio designed & built by <a href="https://kirucoderanger.github.io/portfolio/" target="_blank" rel="noreferrer noopener">Kirubel Mekonen </a> &copy; Coderangers 2025  </p>
     </footer>
   );
 }
