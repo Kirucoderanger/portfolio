@@ -9,26 +9,35 @@ const labelsFirst = [
     "React",
     "TypeScript",
     "JavaScript",
+    "Vue",
     "HTML5",
     "CSS3",
     "SASS",
     "Flask",
+    "streamlit",
     "Python",
+    "C#",
     "SQL",
+    "MySQL",
+    "MongoDB",
     "PostgreSQL",
-    "Postman"
+    "FastAPI",
+    "Node.js",
 ];
 
 const labelsSecond = [
     "Git",
     "GitHub Actions",
+    "streamlit",
     "Docker",
     "AWS",
     "Azure",
-    "Linux",
+    "shopify",
+    
     "Snowflake",
     "Pandas",
     "Selenium",
+
 ];
 
 const labelsThird = [
